@@ -53,10 +53,10 @@ After moving to Germany, I shifted my focus to modern web technologies and built
 
 | Project | Description | Tech | Demo |
 |--------|-------------|------|------|
-| 📝 ToDo App | A ToDo app with Redux and dark mode | React, TypeScript, Redux | [Live](https://todo-typescript.vercel.app) |
-| 🧠 Memory Game | Card matching game with score, animation & hooks | React, TypeScript | [Live](https://pairs-game-er.vercel.app) |
+| 📝 [todo-typescript](https://github.com/reifschneider-helen/to-do-app)  | A ToDo app with Redux and dark mode | React, TypeScript, Redux |
+| 🧠 [memory-card-game](https://github.com/reifschneider-helen/pairs-game) | Card matching game with score, animation & hooks | React, TypeScript | [Live] (https://pairs-game-er.vercel.app/)
 
 ## 🌐 Contact
 
-- 📫 [LinkedIn](https://www.linkedin.com/in/elena-reifschneider-a714a0365/)  
+- 📫 [LinkedIn](https://www.linkedin.com/in/elena-reifschneider)  
 - ✉️ Email: reifschneider.helen@gmail.com  
