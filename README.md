@@ -20,9 +20,9 @@ Ich bin eine leidenschaftliche Frontend-Entwicklerin mit einem Hintergrund in In
 | Projekt | Beschreibung | Tech | Demo |
 |--------|--------------|------|------|
 | 📝 [todo-typescript](https://github.com/reifschneider-helen/to-do-app) | Eine ToDo-App mit Redux und Dark Mode | React, TS, Redux | 
-| 🧠 [memory-card-game](https://github.com/reifschneider-helen/pairs-game) | Kartenspiel mit Score, Animationen & Hooks | React, TS |
+| 🧠 [memory-card-game](https://github.com/reifschneider-helen/pairs-game) | Kartenspiel mit Score, Animationen & Hooks | React, TS | [live ansehen] (https://pairs-game-er.vercel.app/)
 
 ## 🌐 Kontakt
 
-- 📫 [LinkedIn](https://www.linkedin.com/in/elena-reifschneider-a714a0365/)
+- 📫 [LinkedIn](https://www.linkedin.com/in/elena-reifschneider/)
 - ✉️ Mail: reifschneider.helen@gmail.com
