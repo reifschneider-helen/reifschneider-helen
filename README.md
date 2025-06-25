@@ -22,7 +22,7 @@ Ich bin eine leidenschaftliche Frontend-Entwicklerin mit einem Hintergrund in In
 
 | Projekt | Beschreibung | Tech | Demo |
 |--------|--------------|------|------|
-| 📝 [todo-typescript](https://github.com/reifschneider-helen/to-do-app) | Eine ToDo-App mit Redux und Dark Mode | React, TS, Redux | 
+| 📝 [todo](https://github.com/reifschneider-helen/to-do-app) | Eine ToDo-App mit Redux und Dark Mode | React, JavaScript, Redux | 
 | 🧠 [memory-card-game](https://github.com/reifschneider-helen/pairs-game) | Kartenspiel mit Score, Animationen & Hooks | React, TS | [live ansehen] (https://pairs-game-er.vercel.app/)
 
 ## 🌐 Kontakt
@@ -53,7 +53,7 @@ After moving to Germany, I shifted my focus to modern web technologies and built
 
 | Project | Description | Tech | Demo |
 |--------|-------------|------|------|
-| 📝 [todo-typescript](https://github.com/reifschneider-helen/to-do-app)  | A ToDo app with Redux and dark mode | React, TypeScript, Redux |
+| 📝 [todo-typescript](https://github.com/reifschneider-helen/to-do-app)  | A ToDo app with Redux and dark mode | React, JavaScript, Redux |
 | 🧠 [memory-card-game](https://github.com/reifschneider-helen/pairs-game) | Card matching game with score, animation & hooks | React, TypeScript | [Live] (https://pairs-game-er.vercel.app/)
 
 ## 🌐 Contact
