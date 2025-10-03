@@ -22,6 +22,7 @@ Ich lege Wert auf sauberen, wartbaren Code, Performance-Optimierung und barriere
 
 | Projekt | Beschreibung | Tech | Demo |
 |--------|--------------|------|------|
+| 🌤️ [wetter-dashboard](https://github.com/reifschneider-helen/weather-dashboard) | Eine Fullstack-Anwendung zur Anzeige des aktuellen Wetters für mehrere Städte | Next.js, React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB | [Live ansehen] (https://weather-dashboard-pearl-one.vercel.app)
 | 📝 [todo](https://github.com/reifschneider-helen/to-do-app) | Eine ToDo-App mit Redux | React, JavaScript, Redux | 
 | 🧠 [memory-card-game](https://github.com/reifschneider-helen/pairs-game) | Kartenspiel mit Score, Animationen & Hooks | React, TS | [live ansehen] (https://pairs-game-er.vercel.app/)
 
@@ -52,8 +53,9 @@ I value clean, maintainable code, performance optimization, and accessible desig
 
 | Project | Description | Tech | Demo |
 |--------|-------------|------|------|
+| 🌤️ [wetter-dashboard](https://github.com/reifschneider-helen/weather-dashboard) | A fullstack application to display current weather for multiple cities | Next.js, React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB | [Live demo] (https://weather-dashboard-pearl-one.vercel.app)
 | 📝 [todo-typescript](https://github.com/reifschneider-helen/to-do-app)  | A ToDo app with Redux | React, JavaScript, Redux |
-| 🧠 [memory-card-game](https://github.com/reifschneider-helen/pairs-game) | Card matching game with score, animation & hooks | React, TypeScript | [Live] (https://pairs-game-er.vercel.app/)
+| 🧠 [memory-card-game](https://github.com/reifschneider-helen/pairs-game) | Card matching game with score, animation & hooks | React, TypeScript | [Live demo] (https://pairs-game-er.vercel.app/)
 
 ## 🌐 Contact
 
