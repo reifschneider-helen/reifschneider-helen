@@ -28,7 +28,6 @@ Ich lege Wert auf sauberen, wartbaren Code, Performance-Optimierung und barriere
 
 ## 🌐 Kontakt
 
-- 📫 [LinkedIn](https://www.linkedin.com/in/elena-reifschneider/)
 - ✉️ Mail: reifschneider.helen@gmail.com
 
 
@@ -59,5 +58,4 @@ I value clean, maintainable code, performance optimization, and accessible desig
 
 ## 🌐 Contact
 
-- 📫 [LinkedIn](https://www.linkedin.com/in/elena-reifschneider)  
 - ✉️ Email: reifschneider.helen@gmail.com  
